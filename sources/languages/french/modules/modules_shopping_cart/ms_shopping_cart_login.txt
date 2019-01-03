@@ -1,0 +1,10 @@
+
+module_shopping_cart_loginCart_title = Connexion client via le shopping Cart
+module_shopping_cart_login_description = Affiche un formulaire de connexion
+
+module_shopping_cart_login_title = Se connecter
+module_shopping_cart_login_entry_email_address = Adresse Email
+module_shopping_cart_login_entry_password = Mot de passe
+module_shopping_cart_login_image_button_login = Se Connecter
+module_shopping_cart_login_create_account = Créer un compte
+module_shopping_cart_login_text_password_forgotten = Oublie de mot de passe

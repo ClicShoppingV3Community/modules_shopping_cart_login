@@ -1,0 +1,11 @@
+
+
+ module_shopping_cart_loginCart_title = Customer login
+ module_shopping_cart_login_description = Display a form allowing the customer to log in this space
+
+ module_shopping_cart_login_title = Log In
+ module_shopping_cart_login_entry_email_address = Email Address
+ module_shopping_cart_login_entry_password = Password
+ module_shopping_cart_login_image_button_login = Sign In
+ module_shopping_cart_login_create_account = Create an account
+ module_shopping_cart_login_text_password_forgotten = Password forgotten? Click here.
