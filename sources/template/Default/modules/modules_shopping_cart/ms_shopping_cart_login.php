@@ -131,7 +131,7 @@
     }
 
     public function keys() {
-      return array (
+      return array(
         'MODULE_SHOPPING_CART_LOGIN_STATUS',
         'MODULE_SHOPPING_CART_LOGIN_CONTENT_WIDTH',
         'MODULE_SHOPPING_CART_LOGIN_POSITION',
