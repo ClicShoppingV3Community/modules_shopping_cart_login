@@ -52,7 +52,7 @@
           $content_width = (int)MODULE_SHOPPING_CART_LOGIN_CONTENT_WIDTH;
           $position = MODULE_SHOPPING_CART_LOGIN_POSITION;
 
-          $shopping_cart = '  <!-- Shopping_cart start information order process -->'. "\n";
+          $shopping_cart = '  <!-- Shopping_cart start information order process -->' . "\n";
 
           ob_start();
           require_once($CLICSHOPPING_Template->getTemplateModules($this->group . '/content/shopping_cart_login'));
