@@ -34,8 +34,8 @@
       </div>
 
 
-      <div class="controls">
-        <div class="buttonSet float-end test-md-right"><?php echo HTML::button(CLICSHOPPING::getDef('module_shopping_cart_login_image_button_login'), null, null, 'success'); ?></div>
+      <div>
+        <div class="buttonSet float-end text-right"><?php echo HTML::button(CLICSHOPPING::getDef('module_shopping_cart_login_image_button_login'), null, null, 'success'); ?></div>
       </div>
     </div>
   <?php echo $endform; ?>
